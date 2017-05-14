@@ -1,0 +1,31 @@
+* General
+1.  As a user, I would like to be able to specify my location for various
+reasons
+* Clock
+1. As a user, I would like to be able to view the time
+2. As a user, I would like to be able to view an analog or digital clock
+3. As a user, I would like to be able to have the date displayed under the
+clock
+4. As a user, I would like to be able to format the date under the clock
+* Notes
+ WILL BE EXPANDED ONCE THE MIRROR CLIENT IS BASICALLY FUNCTIONAL
+ Requires server component
+ EMULATE GOOGLE KEEP, PLUS Displayed on the mirror
+** Lists
+1. As a user, I would like to be able to view my to do list
+2. As a user, I would like to be able to add items to my to do list
+3. As a user, I would like to be able to delete items from my to do list
+4. As a user, I would like to be able to complete items on my to do list
+5.  As a user, I would like to be able to create custom types of lists, and
+decide which ones are displayed
+* Weather
+1.  As a user, I would like to be able to view the current weather for my
+location
+2.  As a user, I would like to be able to choose to have a weekly forecast for my
+location displayed
+* Traffic
+1.  As a user, I would like to be able to specify locations(s) for which
+traffic times are displayed
+* Quote of the Day
+1. As a user, I would like to see various quotes of the day of various themes
+2.  As a user, I would like to be able to toggle quote of the day
