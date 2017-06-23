@@ -1,0 +1,18 @@
+* User: "As a user I want to..."
+1. View the weather
+    - Select from various weather formats (7 day, 24 hour, ect)
+2. View traffic
+3. View TO DO's for the day
+4. View my reminders 
+5. Be able to re arrange widgets
+6. Log in to my account
+7. Have my notes automatically upload/sync to the server
+8. View a welcome greeting that changes based on time of day
+9. Set my time/timezone and clock format (12/24, Digital analog)
+10. View the date and set various formats
+11. Switch between a "True mirror" mode, and mode where the colors transition
+with time of day
+12. Pull news from various RSS Sources
+13. View something in the User defined box
+    - Live streams or a Traffic map
+* Administrator: "As an administrator I want to..."
